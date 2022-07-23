@@ -1,0 +1,3 @@
+[submodule "integration_method_performance"]
+	path = integration_method_performance
+	url = https://github.com/noether17/integration_method_performance
