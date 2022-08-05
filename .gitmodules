@@ -1,3 +1,6 @@
 [submodule "integration_method_performance"]
 	path = integration_method_performance
 	url = https://github.com/noether17/integration_method_performance
+[submodule "parallel_performance_test"]
+	path = parallel_performance_test
+	url = ./parallel_performance_test/
